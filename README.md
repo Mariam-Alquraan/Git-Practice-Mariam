@@ -20,7 +20,9 @@ _**git pull** = "Get new updates and automatically add them to your files."_
 
 ### 3.  What is the purpose of `.gitignore` file?
 _The purpose of a .gitignore file is to tell Git which files and directories it should ignore and not track in the repository. This is useful for excluding files that are not relevant to the project's source code, such as temporary files, build outputs, log files, IDE/editor settings, or **sensitive information** like passwords. Files listed in .gitignore will not be staged, committed, or shown as untracked by Git._
+
 **.gitignore** is a plain text file with patterns specifying which files or folders to exclude from version control.
+
 *Note : If a file is already tracked, adding it to .gitignore will not remove it from the repository; you need to manually stop tracking it.*
 
 ### 4. Describe the steps to contribute to an open-source project on GitHub.
