@@ -4,7 +4,7 @@
 ## Answers For The Theoretical Questions 
 
 ### 1. What is the difference between Git and GitHub? 
-_**Git** : open-source version control system software installed locally on your computer, tracks changes in source code and allows multiple developers to collaborate by managing different versions of files and coordinating code merges.Lets you create snapshots (“commits”) of your code's history, revert to previous versions, and manage complex workflows offline.Can be used independently,no need for a central server or internet connection for most operations.
+_**Git** : open-source version control system software installed locally on your computer, tracks changes in source code and allows multiple developers to collaborate by managing different versions of files and coordinating code merges.Lets you create snapshots (“commits”) of your code's history, revert to previous versions, and manage complex workflows offline.Can be used independently,no need for a central server or internet connection for most operations._
 **Main role** : Track changes, manage code versions. 
 _**GitHub** : Cloud-based platform and service for hosting Git repositories.Makes collaboration, sharing, and project management easy by providing a central location where code is stored, reviewed, and managed.Extends Git features by adding web-based tools, user management, issue tracking, code reviews through “pull requests”.Requires internet connection and registration; can’t be used without Git as its core,GitHub hosts and organizes Git repositories for social and professional coding.
 **Main role** : Collaboration, backup, project management. 
